@@ -1,0 +1,41 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was time consuming even though they were side by side, searching through every line of code.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If you liked something you previously did, you can look at it.
+    Also, if you make a mistake and things aren't working properly, you can go back a step.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: you know where you saved, saves can be broken however you want, they're offline
+    Cons: you may forget to save after making many changes, your note wasnt clear, your computer locks up
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Some version control systems are more user efficient for professionals while others
+    are used by people needing more help in not making an error. Certain VC's are used
+    depending on what type of work you are doing as well.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log- Will log all the information on saves in that particular file your currently in
+    git diff-When taking 2 of the save points from git log, you can see what changes were made between the two.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I have assurance with git checkout that I can go back to a previous save that
+    doesn't have a bug or runs better instead of it being lost forever.
+    I can go ahead and make changes knowing they aren't permanent.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to share projects on github and be able to pull others work to my computer.
+    This is a great tool to collaborate on projects with.

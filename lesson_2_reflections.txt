@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	You create a git repository in the directory you are currently in.
+	This is needed so that you can add files to this repository, save them, and send them to
+	github so others can see or improve the current work.
