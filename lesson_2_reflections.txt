@@ -14,3 +14,9 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 	You can run git --staged to compare what you have staged vs what your commit is to make sure there's only 1 change.
 	You can also run git diff (by itself) to check your staged file vs your working directory.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	If you would like to test something new, you could create a new branch. Also if you have a completely
+	different version of your master branch(ex. your game in a different language)
+	This helps you by not changing you master files which is where your primary project is. This gives you the option
+	to keep that intact and work on side projects in different files.
