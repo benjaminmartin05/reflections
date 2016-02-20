@@ -20,3 +20,6 @@ What are some situations when branches would be helpful in keeping your history 
 	different version of your master branch(ex. your game in a different language)
 	This helps you by not changing you master files which is where your primary project is. This gives you the option
 	to keep that intact and work on side projects in different files.
+
+How do the diagrams help you visualize the branch structure?
+	They help to see the paths back to their origin for each individual branch.
