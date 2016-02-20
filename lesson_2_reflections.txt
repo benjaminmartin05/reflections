@@ -23,3 +23,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	They help to see the paths back to their origin for each individual branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	The result is all the previous separated files have been merged together into the master branch according to timeline.
+	It's represented this way so that we could see how they were previously separated and had separate parents to now
+	seeing that they are linear.
