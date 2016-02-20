@@ -28,3 +28,9 @@ What is the result of merging two branches together? Why do we represent it in t
 	The result is all the previous separated files have been merged together into the master branch according to timeline.
 	It's represented this way so that we could see how they were previously separated and had separate parents to now
 	seeing that they are linear.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Pros: All your changes are combined into one branch
+	Cons: If you've changed the file in each merged branch to something different,
+	git cannot choose which file is proper for your final branch. You have to make the changes
+	and decide yourself.
